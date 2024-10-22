@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card .row{
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    width: auto;
+    max-width: 200px;
+    margin: 0 ;
+    max-height: 200px;
+    margin: auto;
+    
+}
+
+.card-body{
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
+h1{
+    justify-self: center;
+}

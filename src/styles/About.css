@@ -1,0 +1,5 @@
+.establecimientos {
+    display: flex;
+    justify-content: space-between; /* Espaciado entre columnas */
+    margin-bottom: 20px;
+}

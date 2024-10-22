@@ -1,0 +1,9 @@
+.bg-primary{
+    background-color: #222 !important;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.bg-primary a{
+    color: white !important;
+}
