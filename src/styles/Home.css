@@ -21,8 +21,14 @@
 .card-body{
     max-width: fit-content;
     max-height: fit-content;
+    text-align: center;
 }
 
 h1{
     justify-self: center;
+    padding: 2rem;
+}
+
+.rafita{
+    text-align: center;
 }

@@ -9,11 +9,14 @@ function About() {
             <section className="nosotros">
                 <h1>Acerca de nosotros</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas, ipsum ac lobortis commodo, est velit pellentesque nisi, vitae elementum felis velit vel velit. Donec tempus velit non ipsum consectetur, ut facilisis metus gravida.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas, ipsum ac lobortis commodo, est velit pellentesque nisi, vitae elementum felis velit vel velit. Donec tempus velit non ipsum consectetur, ut facilisis metus gravida.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas, ipsum ac lobortis commodo, est velit pellentesque nisi, vitae elementum felis velit vel velit. Donec tempus velit non ipsum consectetur, ut facilisis metus gravida.</p>
             </section>
 
             <section className="mapa">
-                <h2>Encuentranos</h2>
+                <h2>Encuéntranos</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas, ipsum ac lobortis commodo, est velit pellentesque nisi, vitae elementum felis velit vel velit. Donec tempus velit non ipsum consectetur, ut facilisis metus gravida.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, beatae corporis expedita tempora aliquam nemo? Possimus consequuntur vel repellat, iusto placeat porro adipisci maxime molestiae rerum quas nesciunt eum provident?</p>
                 
                 <div className="establecimientos">
                     <div>

@@ -5,6 +5,7 @@ import Home from "./pages/Home"
 import Cart from "./pages/Cart"
 import About from "./pages/About"
 import Footer from "./pages/Footer"
+import SpinnerCarga from "./components/SpinnerCarga"
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
         <Route path="/carrito" element={<Cart />} />
         <Route path="/nosotros" element={<About />} />
       </Routes>
+      <SpinnerCarga/>
       <Footer />
     </>
   )
